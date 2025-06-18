@@ -1,0 +1,43 @@
+14
+P04
+Lenovo Ideapad
+laptop
+P11
+Samsung Galaxy M13
+smartphone
+P18
+Asus ROG Strix
+laptop
+P02
+Realme Buds Air
+accessory
+P15
+HP DeskJet 2332
+printer
+P08
+OnePlus Nord CE 3
+smartphone
+P20
+Apple MacBook Air
+laptop
+P07
+boAt Stone 620
+speaker
+P01
+Dell Inspiron 15
+laptop
+P16
+Sony WH-CH520
+headphones
+P13
+Canon EOS 1500D
+camera
+P10
+Redmi Note 12
+smartphone
+P03
+Logitech MX Master 3S
+accessory
+P12
+MSI GF63 Thin
+laptop
